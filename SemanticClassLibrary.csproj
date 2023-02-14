@@ -11,6 +11,7 @@
 		<PackageProjectUrl>https://github.com/NetDefender/$(AssemblyName)</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<MinVerDefaultPreReleaseIdentifiers>preview.0</MinVerDefaultPreReleaseIdentifiers>
 	</PropertyGroup>
 
 	<ItemGroup>
