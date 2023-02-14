@@ -1,0 +1,10 @@
+# configuration file for dotnet-releaser
+[msbuild]
+project = "SemanticClassLibrary.csproj"
+
+[github]
+user = "NetDefender"
+repo = "SemanticClassLibrary"
+
+[nuget]
+source = "https://nuget.pkg.github.com/NetDefender/index.json"
